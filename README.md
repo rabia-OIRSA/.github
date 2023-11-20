@@ -1,7 +1,6 @@
-# rabia-OIRSA Github Organization
+# rabia-OIRSA introduction
 
-Work space for collaborators of the UofG-OIRSA rabies genomic surveillance project.
+Work space (Github organisation) for collaborators of the UofG-OIRSA rabies genomic surveillance project.
 
-UofG = University of Glasgow
-
-OIRSA = Organismo Internacional Regional de Sanidad Agropecuaria
+1. UofG = University of Glasgow
+2. OIRSA = Organismo Internacional Regional de Sanidad Agropecuaria
